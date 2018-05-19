@@ -1,84 +1,78 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aitanaddco.com" resolutions="1x" timestamp="1526147020874">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aitanaddco.com" resolutions="1x" timestamp="1526752192911">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="511774019" ref="art:illustrations:oil-paintings:watercolor:about:paintings:sketches:color-pencils:index:contact:acrylics:photography"/>
-    <file name="art.css" crc="3819504835" ref="art"/>
-    <file name="illustrations.css" crc="186797722" ref="illustrations"/>
-    <file name="oil-paintings.css" crc="481761663" ref="oil-paintings"/>
-    <file name="watercolor.css" crc="481761663" ref="watercolor"/>
-    <file name="about.css" crc="208843453" ref="about"/>
-    <file name="paintings.css" crc="460683961" ref="paintings"/>
-    <file name="sketches.css" crc="4019737232" ref="sketches"/>
-    <file name="color-pencils.css" crc="481761663" ref="color-pencils"/>
-    <file name="index.css" crc="3828312115" ref="index"/>
-    <file name="contact.css" crc="481761663" ref="contact"/>
-    <file name="acrylics.css" crc="481761663" ref="acrylics"/>
-    <file name="photography.css" crc="3948370601" ref="photography"/>
+    <file name="master_a-master.css" crc="3923202738" ref="art:illustrations:oil-paintings:watercolor:about:paintings:sketches:color-pencils:index:contact:acrylics"/>
+    <file name="art.css" crc="78960758" ref="art"/>
+    <file name="illustrations.css" crc="469237461" ref="illustrations"/>
+    <file name="oil-paintings.css" crc="140353577" ref="oil-paintings"/>
+    <file name="watercolor.css" crc="140353577" ref="watercolor"/>
+    <file name="about.css" crc="4156161214" ref="about"/>
+    <file name="paintings.css" crc="339913783" ref="paintings"/>
+    <file name="sketches.css" crc="14044205" ref="sketches"/>
+    <file name="color-pencils.css" crc="140353577" ref="color-pencils"/>
+    <file name="index.css" crc="4260807923" ref="index"/>
+    <file name="contact.css" crc="140353577" ref="contact"/>
+    <file name="acrylics.css" crc="140353577" ref="acrylics"/>
+    <file name="iefonts_about.css" crc="4118365233" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor:photography"/>
-    <file name="museutils.js" crc="3803043152" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor:photography"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor:photography"/>
-    <file name="museconfig.js" crc="380897831" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor:photography"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor:photography"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor:photography"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor:photography"/>
-    <file name="require.js" crc="4157109226" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor:photography"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor"/>
+    <file name="require.js" crc="4157109226" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor"/>
     <file name="webpro.js" crc="242022427" ref="art:index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="art:index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="art:index"/>
     <file name="touchswipe.js" crc="4066113679" ref="art:index"/>
   </folder>
   <folder name="images">
-    <file name="u346-4.png" crc="14584594" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="art:index"/>
     <file name="loading.gif" crc="3815509949" ref="art:index"/>
-    <file name="u350-4.png" crc="141518659" ref="art"/>
-    <file name="u353-4.png" crc="3848728" ref="paintings"/>
-    <file name="u357-4.png" crc="4279721866" ref="illustrations"/>
-    <file name="u360-4.png" crc="162630583" ref="sketches"/>
-    <file name="u363-4.png" crc="92543528" ref="photography"/>
-    <file name="if_intsagram_194923.png" crc="130794274" seo="true" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor:photography">
-      <caption webpage="acrylics" alt=""/>
-      <caption webpage="paintings" alt=""/>
+    <file name="if_intsagram_194923.png" crc="130794274" seo="true" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor">
+      <caption webpage="contact" alt=""/>
       <caption webpage="art" alt=""/>
-      <caption webpage="color-pencils" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="sketches" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="watercolor" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="illustrations" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="sketches" alt=""/>
-      <caption webpage="photography" alt=""/>
+      <caption webpage="color-pencils" alt=""/>
+      <caption webpage="acrylics" alt=""/>
       <caption webpage="oil-paintings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
     </file>
-    <file name="if_twitter_194909.png" crc="3914408729" seo="true" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor:photography">
-      <caption webpage="acrylics" alt=""/>
-      <caption webpage="paintings" alt=""/>
+    <file name="if_twitter_194909.png" crc="3914408729" seo="true" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor">
+      <caption webpage="contact" alt=""/>
       <caption webpage="art" alt=""/>
-      <caption webpage="color-pencils" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="sketches" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="watercolor" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="illustrations" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="sketches" alt=""/>
-      <caption webpage="photography" alt=""/>
+      <caption webpage="color-pencils" alt=""/>
+      <caption webpage="acrylics" alt=""/>
       <caption webpage="oil-paintings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
     </file>
-    <file name="if_mail_194919.png" crc="90354889" seo="true" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor:photography">
-      <caption webpage="acrylics" alt=""/>
-      <caption webpage="paintings" alt=""/>
+    <file name="if_mail_194919.png" crc="90354889" seo="true" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor">
+      <caption webpage="contact" alt=""/>
       <caption webpage="art" alt=""/>
-      <caption webpage="color-pencils" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="sketches" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="watercolor" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="illustrations" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="sketches" alt=""/>
-      <caption webpage="photography" alt=""/>
+      <caption webpage="color-pencils" alt=""/>
+      <caption webpage="acrylics" alt=""/>
       <caption webpage="oil-paintings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
     </file>
     <file name="img_3714.jpg" crc="299128055" seo="true" ref="about">
       <caption webpage="about" alt=""/>
@@ -98,10 +92,10 @@
     <file name="img004-crop-u1096.jpg" crc="3843106018" seo="true" ref="art">
       <caption webpage="art" alt=""/>
     </file>
-    <file name="img002-crop-u921.jpg" crc="303573636" seo="true" ref="art">
+    <file name="img002-crop-u921.jpg" crc="4216562447" seo="true" ref="art">
       <caption webpage="art" alt=""/>
     </file>
-    <file name="edit 03-crop-u1042.jpg" crc="4017674913" seo="true" ref="art">
+    <file name="edit 03-crop-u1042.jpg" crc="3967713219" seo="true" ref="art">
       <caption webpage="art" alt=""/>
     </file>
     <file name="edit-crop-u1062.jpg" crc="67415838" seo="true" ref="art">
@@ -113,20 +107,35 @@
     <file name="img004-crop-u1102.jpg" crc="143978691" seo="true" ref="art">
       <caption webpage="art" alt=""/>
     </file>
-    <file name="edit 2 00001.jpg" crc="4216925177" seo="true" ref="index">
+    <file name="edit 2 00001.jpg" crc="114353349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0916.png" crc="77905153" seo="true" ref="index:about:art:contact:paintings:illustrations:sketches:oil-paintings:acrylics:color-pencils:watercolor">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="oil-paintings" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="acrylics" alt=""/>
+      <caption webpage="sketches" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="watercolor" alt=""/>
+      <caption webpage="color-pencils" alt=""/>
+      <caption webpage="paintings" alt=""/>
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="img_0916 1.jpg" crc="310113405" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4243251926" seo="true" mt="1526146987883" redirect="true"/>
-  <file name="about.html" crc="57620421" seo="true" mt="1526146801550" redirect="true"/>
-  <file name="art.html" crc="3989767558" seo="true" mt="1526145746877" redirect="true"/>
-  <file name="contact.html" crc="4110437345" seo="true" mt="1526145398239" redirect="true"/>
-  <file name="paintings.html" crc="268830726" seo="true" mt="1526145398239" redirect="true"/>
-  <file name="illustrations.html" crc="223942009" seo="true" mt="1526145398239" redirect="true"/>
-  <file name="sketches.html" crc="4250513136" seo="true" mt="1526145398239" redirect="true"/>
-  <file name="oil-paintings.html" crc="3859932306" seo="true" mt="1526145398239" redirect="true"/>
-  <file name="acrylics.html" crc="517260556" seo="true" mt="1526145398239" redirect="true"/>
-  <file name="color-pencils.html" crc="3764863574" seo="true" mt="1526145398239" redirect="true"/>
-  <file name="watercolor.html" crc="4097993921" seo="true" mt="1526145398239" redirect="true"/>
-  <file name="photography.html" crc="4199911210" seo="true" mt="1526145398239" redirect="true"/>
+  <file name="index.html" crc="4014697713" seo="true" mt="1526752101432" redirect="true"/>
+  <file name="about.html" crc="237329731" seo="true" mt="1526752101432" redirect="true"/>
+  <file name="art.html" crc="4278724518" seo="true" mt="1526752155793" redirect="true"/>
+  <file name="contact.html" crc="4132478427" seo="true" mt="1526752101432" redirect="true"/>
+  <file name="paintings.html" crc="326980336" seo="true" mt="1526752101432" redirect="true"/>
+  <file name="illustrations.html" crc="290562121" seo="true" mt="1526752101432" redirect="true"/>
+  <file name="sketches.html" crc="4291305111" seo="true" mt="1526752101432" redirect="true"/>
+  <file name="oil-paintings.html" crc="169381283" seo="true" mt="1526752101432" redirect="true"/>
+  <file name="acrylics.html" crc="3876023782" seo="true" mt="1526752101432" redirect="true"/>
+  <file name="color-pencils.html" crc="3787956226" seo="true" mt="1526752101432" redirect="true"/>
+  <file name="watercolor.html" crc="72290725" seo="true" mt="1526752101432" redirect="true"/>
 </manifest>
