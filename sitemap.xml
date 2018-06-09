@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://aitanaddco.com/index.html</loc>
-    <lastmod>2018-05-19</lastmod>
+    <lastmod>2018-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img_0916%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/edit%202%2000001.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img_0913.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_intsagram_194923.png</image:loc>
     </image:image>
@@ -14,21 +26,15 @@
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_mail_194919.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/edit%202%2000001.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img_0916%201.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://aitanaddco.com/about.html</loc>
-    <lastmod>2018-05-19</lastmod>
+    <lastmod>2018-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_intsagram_194923.png</image:loc>
     </image:image>
@@ -41,15 +47,15 @@
     <image:image>
       <image:loc>http://aitanaddco.com/images/img_3714.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://aitanaddco.com/art.html</loc>
-    <lastmod>2018-05-19</lastmod>
+    <lastmod>2018-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_intsagram_194923.png</image:loc>
     </image:image>
@@ -58,46 +64,16 @@
     </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_mail_194919.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img002-crop-u912.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/edit%2003-crop-u1036.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/edit-crop-u1056.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/edit01.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img004-crop-u1096.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img002-crop-u921.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/edit%2003-crop-u1042.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/edit-crop-u1062.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/edit01-crop-u1082.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img004-crop-u1102.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://aitanaddco.com/contact.html</loc>
-    <lastmod>2018-05-19</lastmod>
+    <lastmod>2018-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_intsagram_194923.png</image:loc>
     </image:image>
@@ -106,52 +82,16 @@
     </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_mail_194919.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://aitanaddco.com/paintings.html</loc>
-    <lastmod>2018-05-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/if_intsagram_194923.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/if_twitter_194909.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/if_mail_194919.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://aitanaddco.com/illustrations.html</loc>
-    <lastmod>2018-05-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/if_intsagram_194923.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/if_twitter_194909.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/if_mail_194919.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://aitanaddco.com/sketches.html</loc>
-    <lastmod>2018-05-19</lastmod>
+    <lastmod>2018-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_intsagram_194923.png</image:loc>
     </image:image>
@@ -162,14 +102,38 @@
       <image:loc>http://aitanaddco.com/images/if_mail_194919.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
+      <image:loc>http://aitanaddco.com/images/edit%2003.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img0151.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img014.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img007.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/edit%2003-crop-u2764.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img0151-crop-u2924.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img014-crop-u2871.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img007-crop-u2897.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://aitanaddco.com/oil-paintings.html</loc>
-    <lastmod>2018-05-19</lastmod>
+    <lastmod>2018-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_intsagram_194923.png</image:loc>
     </image:image>
@@ -178,16 +142,16 @@
     </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_mail_194919.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://aitanaddco.com/acrylics.html</loc>
-    <lastmod>2018-05-19</lastmod>
+    <lastmod>2018-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_intsagram_194923.png</image:loc>
     </image:image>
@@ -196,16 +160,16 @@
     </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_mail_194919.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://aitanaddco.com/color-pencils.html</loc>
-    <lastmod>2018-05-19</lastmod>
+    <lastmod>2018-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_intsagram_194923.png</image:loc>
     </image:image>
@@ -214,16 +178,16 @@
     </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_mail_194919.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://aitanaddco.com/watercolor.html</loc>
-    <lastmod>2018-05-19</lastmod>
+    <lastmod>2018-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_intsagram_194923.png</image:loc>
     </image:image>
@@ -232,9 +196,6 @@
     </image:image>
     <image:image>
       <image:loc>http://aitanaddco.com/images/if_mail_194919.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aitanaddco.com/images/img_0916.png</image:loc>
     </image:image>
   </url>
 </urlset>
